@@ -1,8 +1,5 @@
 # Hi there, I'm Nikhil Sai Mandava 👋 
 ### Software Engineer ➔ DevOps & Cloud Enthusiast
-<p>
-  <img src="https://komarev.com/ghpvc/?username=nikhilchowdary26&label=Profile%20Views&color=00F5FF&style=flat-square" alt="Views" />
-</p>
 
 I am a Software Engineer with **2+ years of experience** building robust applications using Java and Spring Boot. Currently, I am channeling my passion for automation, scalability, and infrastructure to transition into a **Full-Time DevOps & Cloud Engineer**. 
 
