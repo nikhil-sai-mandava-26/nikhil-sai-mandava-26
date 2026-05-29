@@ -1,8 +1,7 @@
 # Hi there, I'm Nikhil Sai Mandava 👋 
 ### Software Engineer ➔ DevOps & Cloud Enthusiast
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=nikhilchowdary26&label=Profile%20Views&color=0e76a8&style=flat-square" alt="Views" />
+<p>
+  <img src="https://komarev.com/ghpvc/?username=nikhilchowdary26&label=Profile%20Views&color=00F5FF&style=flat-square" alt="Views" />
 </p>
 
 I am a Software Engineer with **2+ years of experience** building robust applications using Java and Spring Boot. Currently, I am channeling my passion for automation, scalability, and infrastructure to transition into a **Full-Time DevOps & Cloud Engineer**. 
@@ -26,14 +25,17 @@ I love breaking down complex architectures, automating tedious pipelines, and de
 ---
 
 ## ✍️ Latest From My Medium Blog
+<!-- START_BLOG_POSTS -->
 I write about Java, CI/CD pipelines, containerization, and my cloud journey. 
 👉 Check out my deep dives on [My Medium Profile](https://medium.com/@nikhilsaimandava26).
+<!-- END_BLOG_POSTS -->
+
 ---
 
 ## 📊 GitHub Metrics & Activity
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nikhilchowdary26&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nikhilchowdary26&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 ---
@@ -42,14 +44,17 @@ I write about Java, CI/CD pipelines, containerization, and my cloud journey.
 
 <p align="left">
   <a href="https://nikhilchowdary26.github.io/portfolio/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-0078D4?style=for-the-badge&logo=microsoft-edge&logoColor=white" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-00F5FF?style=for-the-badge&logo=microsoft-edge&logoColor=black" alt="Portfolio" />
   </a>
   <a href="https://medium.com/@nikhilsaimandava26" target="_blank">
-    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
+    <img src="https://img.shields.io/badge/Medium-FF2E93?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
+  </a>
+  <a href="mailto:nikhilsaimandava26@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-✉️-00F5FF?style=for-the-badge&logo=gmail&logoColor=black" alt="Email" />
   </a>
 </p>
 
 ---
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00F5FF&height=100&section=footer" />
 </p>
