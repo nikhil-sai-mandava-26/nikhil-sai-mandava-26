@@ -29,14 +29,6 @@ I write about Java, CI/CD pipelines, containerization, and my cloud journey.
 
 ---
 
-## 📊 GitHub Metrics & Activity
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nikhil-sai-mandava-26&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
----
-
 ## 🌐 Connect With Me
 
 <p align="left">
